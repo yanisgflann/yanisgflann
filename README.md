@@ -1,16 +1,40 @@
-## Hi there 👋
+## Yanis GUERIF
 
-<!--
-**yanisgflann/yanisgflann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Étudiant en BUT Informatique à Lannion
 
-Here are some ideas to get you started:
+## Outils et Système :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+
+<img src = "https://skillicons.dev/icons?i=linux,git,github,vscode,apple,windows,docker,bash,discord"/>
+
+### Passion :
+
+<figure>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b13FupbJiqRDcYQbK4BfEcAJ6S7eA8I5oQ&s" width="50" height="50" style="border-radius: 25%;" title="n8n"/>
+    <figcaption>n8n: Automatisation et Agents IA </figcaption>
+</figure>
+
+## Langages :
+
+### Programmation :
+
+<img src = "https://skillicons.dev/icons?i=c,python,java"/>
+
+### Web :
+
+<img src = "https://skillicons.dev/icons?i=html,css,bootstrap"/>
+
+### Base de données :
+
+<img src = "https://skillicons.dev/icons?i=postgresql,sqlite"/>
+
+## Contact :
+
+### Mail :
+
+[yanis.guerif@etudiant.univ-rennes.fr](mailto:yanis.guerif@etudiant.univ-rennes.fr)
+
+### Linkedin :
+
+https://www.linkedin.com/in/yanis-guerif-068953386/
