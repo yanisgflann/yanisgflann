@@ -8,13 +8,6 @@
 
 <img src = "https://skillicons.dev/icons?i=linux,git,github,vscode,apple,windows,docker,bash,discord"/>
 
-### Passion :
-
-<figure>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b13FupbJiqRDcYQbK4BfEcAJ6S7eA8I5oQ&s" width="50" height="50" style="border-radius: 25%;" title="n8n"/>
-    <figcaption>n8n: Automatisation et Agents IA </figcaption>
-</figure>
-
 ## Langages :
 
 ### Programmation :
@@ -28,6 +21,41 @@
 ### Base de données :
 
 <img src = "https://skillicons.dev/icons?i=postgresql,sqlite"/>
+
+### Passion: IA local et Agentique
+
+<div class = "ia">
+<figure>
+    <img src="images/ollamaLogo.png" width="50" height="50" style="border-radius: 25%;" title="Ollama"/>
+    <figcaption>Ollama</figcaption>
+</figure>
+
+<figure>
+    <img src="images/lmstudio.webp" width="50" height="50" style="border-radius: 25%;" title="LM Studio"/>
+    <figcaption>LM Studio</figcaption>
+</figure>
+
+<figure>
+    <img src="images/huggingface.svg" width="50" height="50" style="border-radius: 25%;" title="HuggingFace"/>
+    <figcaption>HuggingFace</figcaption>
+</figure>
+
+<figure>
+    <img src="images/langchain.png" width="50" height="50" style="border-radius: 25%;" title="Langchain"/>
+    <figcaption>Langchain</figcaption>
+</figure>
+</div>
+
+<style>
+    .ia {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    figcaption {
+        margin-left: 10px;
+    }
+</style>
 
 ## Contact :
 
