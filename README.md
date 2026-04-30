@@ -46,17 +46,6 @@
 </figure>
 </div>
 
-<style>
-    .ia {
-        display: flex;
-        flex-direction: row;
-    }
-    
-    figcaption {
-        margin-left: 10px;
-    }
-</style>
-
 ## Contact :
 
 ### Mail :
