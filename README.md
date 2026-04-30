@@ -27,22 +27,18 @@
 <div class = "ia">
 <figure>
     <img src="images/ollamaLogo.png" width="50" height="50" style="border-radius: 25%;" title="Ollama"/>
-    <figcaption>Ollama</figcaption>
 </figure>
 
 <figure>
     <img src="images/lmstudio.webp" width="50" height="50" style="border-radius: 25%;" title="LM Studio"/>
-    <figcaption>LM Studio</figcaption>
 </figure>
 
 <figure>
     <img src="images/huggingface.svg" width="50" height="50" style="border-radius: 25%;" title="HuggingFace"/>
-    <figcaption>HuggingFace</figcaption>
 </figure>
 
 <figure>
     <img src="images/langchain.png" width="50" height="50" style="border-radius: 25%;" title="Langchain"/>
-    <figcaption>Langchain</figcaption>
 </figure>
 </div>
 
